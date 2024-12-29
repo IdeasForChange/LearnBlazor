@@ -1,1 +1,1 @@
-# LearnBlazor
+# Learn Blazor
